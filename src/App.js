@@ -1,12 +1,9 @@
-import React from 'react'
+import React from "react";
 
+import "assets/scss/style.scss";
 
 function App() {
-  return (
-    <div className="App">
-      Ini belajar mern!
-    </div>
-  );
+  return <div className="App">Hello BWA</div>;
 }
 
 export default App;
